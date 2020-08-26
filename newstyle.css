@@ -82,9 +82,10 @@ border-radius: 60%;
 
 .sidebar
 {
+	font-size:30px;
 	width: 25%;
 	height: 600px;
-	background: tomato;
+	background: lightgray;
 	float: right;
 }
 
